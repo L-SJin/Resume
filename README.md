@@ -2,6 +2,7 @@
 ---
 
 <img src=lsj.jpg height=150 widht=150>   
+
 이름: 이수진   
 
 나이: 22   
